@@ -9,8 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@turf/circle": "^7.2.0",
+    "@turf/turf": "^7.2.0",
+    "@types/osmtogeojson": "^2.2.34",
     "leaflet": "^1.9.4",
     "next": "15.1.6",
+    "osmtogeojson": "^3.0.0-beta.5",
     "react": "^19.0.0-rc.1",
     "react-dom": "^19.0.0-rc.1",
     "react-leaflet": "^5.0.0-rc.2"
